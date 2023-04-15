@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ContactAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ContactAPI.Models": "1.0.0"
+        },
+        "runtime": {
+          "ContactAPI.Infrastructure.dll": {}
+        }
+      },
+      "ContactAPI.Models/1.0.0": {
+        "runtime": {
+          "ContactAPI.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContactAPI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

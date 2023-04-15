@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UICqiOm8SOHC3Givzr5k6JuG3CsNk3wBerYCFuLzUdZXNn5KA43lkJ9VWZBsmGsAJPmjIGyZQlLAz3MZi8kIpQ==",
+  "success": true,
+  "projectFilePath": "C:\\OcelotExample\\Services\\ContactAPI.Infrastructure\\ContactAPI.Infrastructure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfs.netix.com.tr:8080/tfs/NetixCollection/_packaging/NetixNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
